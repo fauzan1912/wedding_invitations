@@ -352,7 +352,7 @@ export default function WeddingInvitation() {
               <CardContent className="p-6 space-y-4">
                 <div className="flex items-center gap-3 transform hover:translate-x-2 transition-transform duration-300">
                   <Calendar className="w-5 h-5 text-rose-500" />
-                  <span>Sabtu, 28 Agustus 2025</span>
+                  <span>Kamis, 28 Agustus 2025</span>
                 </div>
                 <div className="flex items-center gap-3 transform hover:translate-x-2 transition-transform duration-300">
                   <Clock className="w-5 h-5 text-rose-500" />
