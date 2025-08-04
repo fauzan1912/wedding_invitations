@@ -1,4 +1,4 @@
-# Undangan Pernikahan Digital - Andi & Sari
+# Undangan Pernikahan Digital
 
 Website undangan pernikahan yang elegan dan responsif dengan fitur-fitur modern.
 
