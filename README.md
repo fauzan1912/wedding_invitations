@@ -116,4 +116,4 @@ Proyek ini dibuat untuk keperluan personal. Silakan dimodifikasi sesuai kebutuha
 
 ---
 
-Dibuat dengan ❤️ untuk Andi & Sari
+Dibuat dengan ❤️
